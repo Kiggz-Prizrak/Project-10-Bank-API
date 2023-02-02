@@ -1,3 +1,7 @@
+
+# start mongod
+# npm run dev:server
+
 # Project #10 - Argent Bank API
 
 This codebase contains the code needed to run the backend for Argent Bank.
